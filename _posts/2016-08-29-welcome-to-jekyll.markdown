@@ -22,6 +22,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 List bullets:
 (This should be rendered as HTML unordered list)
+
 * Item 1
 * Item 2 
 * Item 3
